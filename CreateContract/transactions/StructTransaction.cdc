@@ -1,5 +1,5 @@
 // Import StuctContract
-import StructContract from 0x02
+import StructContract from 0x06
 
 // Transaction to add a student
 transaction(id: UInt64, name: String) {
